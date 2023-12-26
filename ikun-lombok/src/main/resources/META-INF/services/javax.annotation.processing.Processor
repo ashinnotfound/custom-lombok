@@ -1,0 +1,3 @@
+com.ashin.processor.GetterProcessor
+com.ashin.processor.SetterProcessor
+com.ashin.processor.IKunProcessor
